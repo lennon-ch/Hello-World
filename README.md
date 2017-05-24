@@ -1,2 +1,4 @@
 # Hello-World
-Just trying to create a website, harder than i thought it would be.
+Greetings, Fellow Human.
+This is just me learning to do stuff.
+Just ignore it.
